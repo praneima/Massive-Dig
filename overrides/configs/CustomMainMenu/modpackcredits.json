@@ -1,0 +1,88 @@
+{
+    "images":
+    {
+
+    },
+	
+	"buttons":
+    {
+		"btmm":
+		{
+			"text" : "Back to Main Menu",
+			"posX" : 10,
+            "posY" : -26,
+			"width" : 100,
+            "height" : 20,
+			"alignment" : bottom_left,
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mainmenu"
+            }
+		},
+		
+		"MPF":
+		{
+			"text" : "Modpack Profile",
+			"posX" : -116,
+            "posY" : -26,
+			"width" : 100,
+            "height" : 20,
+			"alignment" : bottom_right,
+			"action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://minecraft.curseforge.com/projects/massive-dig"
+            }
+		},
+		"MDDS":
+		{
+			"text" : "Massive Dig Discord Server",
+			"posX" : -76,
+            "posY" : -26,
+			"width" : 150,
+            "height" : 20,
+			"alignment" : bottom_center,
+			"action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://discord.gg/sANWNjZ"
+            }
+		}
+    },
+    
+    "labels":
+    {
+		"mpcredits":
+        {
+            "text" : "This Modpack is based on the official Technic Modpack called Big Dig. This modpack\nis made by Flairieve. All mods in this pack are NOT made by Flairieve but goes to\nthe rightful owners.",
+            "posX" : -205,
+            "posY" : 4,
+            "color" : -1,
+            "alignment" : "top_center"
+        },
+		
+		"changelog":
+        {
+            "text":"web:http://pastebin.com/raw/brgx9Z1J",
+            "posX" : -200,
+            "posY" : 0,
+            "color" : -1,
+            "alignment" : "center"
+        }
+    },
+	
+	"other":
+    {
+        
+         "panorama":
+        {
+            "images" : "modpack:textures/panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : false,
+            "gradient" : false,
+			"synced" : true
+        }
+    }
+}

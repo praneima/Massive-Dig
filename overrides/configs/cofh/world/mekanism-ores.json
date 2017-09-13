@@ -1,0 +1,71 @@
+{
+	"populate": {
+
+		"osmium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mekanism:oreblock",
+				"material": "minecraft:stone",
+				"cluster-size": 17
+			},
+			"cluster-count": 5,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"copper": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name" : "mekanism:oreblock",
+					"metadata" : 1
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 17
+			},
+			"cluster-count": 5,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tin": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name" : "mekanism:oreblock",
+					"metadata" : 2
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 17
+			},
+			"cluster-count": 5,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

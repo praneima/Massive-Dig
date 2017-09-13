@@ -1,0 +1,173 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:textures/md.png",
+            "posX" : -153,
+            "posY" : -100,
+            "width" : 300,
+            "height" : 300,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+		
+		"credits":
+        {
+            "text" : "Extra",
+            "posX" : -100,
+            "posY" : 120,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.modpackcredits"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 144,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 144,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+        
+    },
+    
+    "labels":
+    {
+        "credits":
+        {
+            "text" : "Modpack made by Flairieve!",
+            "posX" : -136,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+		"forgeversion":
+        {
+            "text" : "Forge #forgeversion#",
+            "posX" : 2,
+            "posY" : 2,
+            "color" : -1,
+            "alignment" : "top_left"
+        },
+		
+		"minecraftversion":
+        {
+            "text" : "MC 1.11.2",
+            "posX" : 2,
+            "posY" : 12,
+            "color" : -1,
+            "alignment" : "top_left"
+        },
+		
+		"forgemods":
+        {
+            "text" : "#modsloaded# mods loaded, #modsactive# mods active",
+            "posX" : -159,
+            "posY" : 2,
+            "color" : -1,
+            "alignment" : "top_right"
+        },
+		
+		"mdversion":
+		{
+		    "text" : "file:modpack:misc/version.txt",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+		}
+		
+		
+        
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 135,
+            "posY" : 75,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:modpack:misc/splash.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "modpack:textures/panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : false,
+            "gradient" : false
+        }
+    }
+}
