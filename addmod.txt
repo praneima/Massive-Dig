@@ -2,4 +2,4 @@ If you have a custom mod on your fork then please add the name here and the link
 You don't have to do this if you know how to add mods to the manifest.json file!
 The correct way of formatting this is:
 
-MOD : URL : IS IT OK TO USE ON MODPACK? : IS IT ON CURSE?
+MOD (INCLUDE CURSE ID IF ITS A CURSE MOD!) : URL : IS IT OK TO USE ON MODPACK? : IS IT ON CURSE?
