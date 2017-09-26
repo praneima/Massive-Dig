@@ -5,6 +5,5 @@ I decided to try out and introduce for community members to contribute to Massiv
 
 TODO:
 
-Add the modlist file.
-
-Make a addmod.txt file so I can see what mods people want into include if they do have one.
+See if putting the file into Curse will actually allow me to play test this,
+If not then completely see what I did wrong and fix it.
