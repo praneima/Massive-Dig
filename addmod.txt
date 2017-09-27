@@ -1,5 +1,8 @@
-If you have a custom mod on your fork then please add the name here and the link to Curse or its original URL.
-You don't have to do this if you know how to add mods to the manifest.json file!
-The correct way of formatting this is:
+If you have a custom mod on your fork then follow these easy steps on how to request mods!
+Create a new file with your github name then with a underscore and following that with the text of addmod.
+Example: Flairieve_addmod.txt
+
+Then use this format below in your file! You can delete lines 1 to 7 but keep the format below so I can
+easily read out the mod request!
 
 MOD (INCLUDE CURSE ID IF ITS A CURSE MOD!) : URL : IS IT OK TO USE ON MODPACK? : IS IT ON CURSE?
