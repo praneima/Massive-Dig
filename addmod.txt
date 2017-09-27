@@ -3,6 +3,6 @@ Create a new file with your github name then with a underscore and following tha
 Example: Flairieve_addmod.txt
 
 Then use this format below in your file! You can delete lines 1 to 7 but keep the format below so I can
-easily read out the mod request!
+easily read out the mod request! Also you can just use this file and rename it to your username!
 
 MOD (INCLUDE CURSE ID IF ITS A CURSE MOD!) : URL : IS IT OK TO USE ON MODPACK? : IS IT ON CURSE?
