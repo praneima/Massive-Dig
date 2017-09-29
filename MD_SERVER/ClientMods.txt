@@ -1,0 +1,8 @@
+These mods you DO NOT INCLUDE because they might crash the server!
+
+CustomMainMenu
+DynamicSurroundings
+InventoryTweaks
+ResourceLoader
+SoundFilters
+WailaHarvestability

@@ -5,5 +5,4 @@ I decided to try out and introduce for community members to contribute to Massiv
 
 TODO:
 
-See if putting the file into Curse will actually allow me to play test this,
-If not then completely see what I did wrong and fix it.
+Figure out how I will include mods in MD_SERVER without including the mod jars?
