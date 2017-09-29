@@ -1,4 +1,4 @@
-﻿https://minecraft.curseforge.com/mc-mods/268560 Mekanism (by aidancbrady)
+https://minecraft.curseforge.com/mc-mods/268560 Mekanism (by aidancbrady)
 https://minecraft.curseforge.com/mc-mods/268567 Mekanism Tools (by aidancbrady)
 https://minecraft.curseforge.com/mc-mods/268566 Mekanism Generators (by aidancbrady)
 https://minecraft.curseforge.com/mc-mods/238891 Dynamic Surroundings (by OreCruncher)
